@@ -1,0 +1,26 @@
+{
+    "ui.release": {
+        "category": "ui",
+        "sounds": [{ "name": "release.ogg" }]
+    },
+    "ui.modal_hide": {
+        "category": "ui",
+        "sounds": [{ "name": "modal_hide.ogg" }]
+    },
+    "ui.snes_pop": {
+        "category": "ui",
+        "sounds": [{ "name": "snes_pop.ogg" }]
+    },
+    "ui.click": {
+        "category": "ui",
+        "sounds": [{ "name": "click.ogg" }]
+    },
+    "ui.toast_in": {
+        "category": "ui",
+        "sounds": [{ "name": "toast_in.ogg" }]
+    },
+    "ui.toast_out": {
+        "category": "ui",
+        "sounds": [{ "name": "toast_out.ogg" }]
+    }
+}
